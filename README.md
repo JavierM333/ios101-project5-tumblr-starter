@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-<a href="https://jmp.sh/v/pvyw9BISQuQgEpOCdhXh"><p style="margin-bottom: 0 !important;">Simulator Screen Recording - iPhone 16 Pro - 2025-04-04 at 19.58.47 - View Image</p><img style="max-width:400px;" src=""></a>
+Gif Link (Idk why but the embed won't work with same method as every other time): https://jmp.sh/v/pvyw9BISQuQgEpOCdhXh
 
 
 I had issues with connecting the prototype cell with the new class I made in a separate file
