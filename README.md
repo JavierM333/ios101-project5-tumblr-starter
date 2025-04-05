@@ -23,9 +23,7 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
-
-<a href="https://jmp.sh/v/wsdKhC5GxfgWuECHsiiQ"><p style="margin-bottom: 0 !important;">Tumblr Dupe</p><img style="max-width:400px;" src="https://previews.jumpshare.com/gif/815bc01b796dd6f1733c957c5af19493d4895f4849740d67aae12369b0fea9a7d747dfc16a67a52695d7198d9be72d8836269d51d4b50ca50252b0b88b2ee3175a57d43e0daec71da3443c53496438d0"></a>
+<a href="https://jmp.sh/v/pvyw9BISQuQgEpOCdhXh"><p style="margin-bottom: 0 !important;">Simulator Screen Recording - iPhone 16 Pro - 2025-04-04 at 19.58.47 - View Image</p><img style="max-width:400px;" src=""></a>
 
 
 I had issues with connecting the prototype cell with the new class I made in a separate file
